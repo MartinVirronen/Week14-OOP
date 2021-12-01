@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\OOPpet\OOPpet\obj\Debug\netcoreapp3.1\OOPpet.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\OOPpet\OOPpet\obj\Debug\netcoreapp3.1\OOPpet.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\OOPpet\OOPpet\obj\Debug\netcoreapp3.1\OOPpet.AssemblyInfo.cs
+C:\Users\opilane\source\repos\OOPpet\OOPpet\obj\Debug\netcoreapp3.1\OOPpet.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\OOPpet\OOPpet\bin\Debug\netcoreapp3.1\OOPpet.exe
+C:\Users\opilane\source\repos\OOPpet\OOPpet\bin\Debug\netcoreapp3.1\OOPpet.deps.json
+C:\Users\opilane\source\repos\OOPpet\OOPpet\bin\Debug\netcoreapp3.1\OOPpet.runtimeconfig.json
+C:\Users\opilane\source\repos\OOPpet\OOPpet\bin\Debug\netcoreapp3.1\OOPpet.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\OOPpet\OOPpet\bin\Debug\netcoreapp3.1\OOPpet.dll
+C:\Users\opilane\source\repos\OOPpet\OOPpet\bin\Debug\netcoreapp3.1\OOPpet.pdb
+C:\Users\opilane\source\repos\OOPpet\OOPpet\obj\Debug\netcoreapp3.1\OOPpet.dll
+C:\Users\opilane\source\repos\OOPpet\OOPpet\obj\Debug\netcoreapp3.1\OOPpet.pdb
+C:\Users\opilane\source\repos\OOPpet\OOPpet\obj\Debug\netcoreapp3.1\OOPpet.genruntimeconfig.cache
